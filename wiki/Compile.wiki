@@ -1,0 +1,1 @@
+Project compiled with Cygwin + mingw. Makefile in the src tree.
